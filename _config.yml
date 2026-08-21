@@ -13,10 +13,9 @@ title                    : "Olivia Lewis"
 title_separator          : "-"
 name                     : &name "Olivia Lewis"
 description              : &description "Master of City Planning student at UC Berkeley, looking to study and work at the intersection of transportation policy and planning, geospatial analysis, and public health."   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://github.com/olivia-marie-lewis/oliviamarielewis.github.io  # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "olivia-marie-lewis/oliviamarielewis.github.io"
+url: https://olivia-marie-lewis.github.io
+baseurl: ""
+repository: "olivia-marie-lewis/oliviamarielewis.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
