@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: ""
+excerpt: "Ongoing projects include research using General Transit Feed Specification data to assess disparities in public transportation access; related manuscripts are currently in preparation for submission to peer-reviewed journals. For a list of completed publications, see my [Google Scholar page](https://scholar.google.com/citations?user=0l5LhOkAAAAJ&hl=en)." 
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
