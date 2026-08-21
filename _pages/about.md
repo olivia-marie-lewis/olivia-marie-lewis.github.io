@@ -56,9 +56,9 @@ redirect_from:
 
 <div style="display: flex; align-items: center; gap: 30px; margin-bottom: 30px;">
 
-  <img src="/images/Headshot.JPEG" 
-       alt="Olivia Lewis" 
-       class="profile-photo">
+<img src="{{ '/images/Headshot.JPEG' | relative_url }}" 
+     alt="Olivia Lewis" 
+     class="profile-photo">
 
   <div>
     <p>
