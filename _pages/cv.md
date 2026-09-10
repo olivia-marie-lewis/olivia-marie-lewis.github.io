@@ -47,7 +47,7 @@ for the state of Idaho, integrating multiple datasets to identify areas for targ
 * Translated quantitative findings into written reports, peer-reviewed manuscripts, posters, and presentations
 * Coordinated a community advisory board process involving stakeholders to facilitate community engagement
 * Conducted street outreach, surveys, and in-depth interviews with community members to collect qualitative and
-quantitative data on experiences with xylazine exposure and violence
+quantitative data on substance use and violence
  <br>
 
 <u> Teaching Assistant: Introduction to GIS for Public Health <u> (Spring 2025; Fall 2025)
