@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-To download this resume, click [here](/files/OLewis.Resume.09.09.26.pdf).
+To download this resume, click [here](/files/OLewis.Resume.10.04.26.pdf).
 
 Education
 ======
@@ -54,7 +54,7 @@ quantitative data on substance use and violence
 * Delivered guest lectures and live ArcGIS Pro demonstrations on attribute queries, spatial queries, and bivariate
 choropleth mapping, incorporating interactive components to reinforce learning
 * Provided detailed, constructive feedback on assignments to improve cartographic design and analytical skills
-* Received “excellent” ratings from over 75% of students for instructional suppor
+* 100% of students rated instructional support as “excellent” or “very good”
 
 
 Extracurriculars
